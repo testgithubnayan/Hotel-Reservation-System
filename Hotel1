@@ -1,6 +1,6 @@
 package com.bridgelabz.hotelreservation;
 
-public class Hotel {
+public class Hotel1 {
     String name;
     int rates;
 
